@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am a master degree student on speech and language processing programme at Trinity College Dublin (2022 ~ 2023). I was an audio and speech processing engineer has the experience on the audio front-end developments, with the speech technology projects application developing experience.
+I am a master degree student on speech and language processing programme at Trinity College Dublin (2022 ~ 2023). My background includes speech and audio processing, especially speech acoustics and voice quality. I was an audio and speech processing engineer has the experience on the audio front-end developments, with the speech technology projects application developing experience. 
+
+During my past study and practice, I have a solid speech and language processing skills throughout the traditional to latest solutions.
 <!--
 **xiao11lam/xiao11lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
