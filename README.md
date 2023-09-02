@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-During my past study and practice, I have a solid speech and language processing skills throughout the traditional to latest solutions. Currently, I am endeavoring to make next-gen speech products more fantastic ⚡.
+Endeavoring to make next-gen speech products more fantastic ⚡.
 <!--
 **xiao11lam/xiao11lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
